@@ -1,0 +1,10 @@
+
+Create an Animal Class has a functionality (move() ) that
+
+we will create some classes
+
+Bird     flying
+
+cow         walking
+
+fish        swimming
